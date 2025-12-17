@@ -12,9 +12,9 @@ This repository provides **standardized workflows** and **direct access to hundr
 
 ### 🌐 Interactive Website (No Installation Required)
 
-👉**Explore the pangenomes online:*** [HOMD Anvi’o Portal](https://www.homd.org/genome/anvio_pangenomes)
+👉**Explore the pangenomes online:*** [HOMD Anvi’o Portal ↗](https://www.homd.org/genome/anvio_pangenomes)
 
-All pangenomes are available for **online interactive visualization** through a dedicated **HOMD Anvi’o server**. Users can explore gene clusters, core and accessory genomes, metabolic annotations, and phylogenetic structure directly in a web browser.
+All pangenomes are available for **online interactive visualization** through a dedicated **HOMD Anvi’o server**. Users can explore gene clusters, core and accessory genes, and metabolic annotations directly in a web browser.
 
 > This mode of access is intended to support discovery, education, and hypothesis generation without requiring local computational infrastructure.
 
